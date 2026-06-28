@@ -1,5 +1,4 @@
 # OilGuard - 抽油机井工况智能诊断系统
-## Oil Well Intelligent Diagnosis System
 
 [![GitHub stars](https://img.shields.io/github/stars/QiZishi/OilGuard)](https://github.com/QiZishi/OilGuard)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
